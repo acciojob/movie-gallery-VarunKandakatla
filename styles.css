@@ -1,2 +1,20 @@
 
 /* Your CSS Code here. */
+.fluid{
+/* 	display:flex; */
+}
+
+.first, .two, .three, .four{
+	display:flex;
+}
+
+.first-col, .sec-col,.third-col{
+	margin:2px;
+}
+
+.third-col,.four-col,.sec-col{
+	width:100%;
+}
+img{
+	width:100%;
+}
